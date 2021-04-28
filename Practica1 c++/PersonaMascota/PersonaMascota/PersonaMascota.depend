@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1559403187 source:c:\users\juanc\documents\facultad\unq\licenciatura en informatica\estructuras de datos\practica1 c++\personamascota\persona\main.cpp
+	<iostream>
+	"Persona.h"
+
+1559405233 c:\users\juanc\documents\facultad\unq\licenciatura en informatica\estructuras de datos\practica1 c++\personamascota\persona\persona.h
+	<iostream>
+	"Mascota.h"
+
+1559403187 c:\users\juanc\documents\facultad\unq\licenciatura en informatica\estructuras de datos\practica1 c++\personamascota\persona\mascota.h
+	<iostream>
+
+1559403187 source:c:\users\juanc\documents\facultad\unq\licenciatura en informatica\estructuras de datos\practica1 c++\personamascota\persona\mascota.cpp
+	"Mascota.h"
+
+1559405042 source:c:\users\juanc\documents\facultad\unq\licenciatura en informatica\estructuras de datos\practica1 c++\personamascota\persona\persona.cpp
+	"Persona.h"
+

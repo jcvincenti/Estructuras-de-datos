@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PersonaMascota" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PersonaMascota" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PersonaMascota" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../../../../../../../Downloads/PersonaMascota/Persona/Mascota.cpp" />
+		<Unit filename="../../../../../../../Downloads/PersonaMascota/Persona/Mascota.h" />
+		<Unit filename="../../../../../../../Downloads/PersonaMascota/Persona/Persona.cbp" />
+		<Unit filename="../../../../../../../Downloads/PersonaMascota/Persona/Persona.cpp" />
+		<Unit filename="../../../../../../../Downloads/PersonaMascota/Persona/Persona.depend" />
+		<Unit filename="../../../../../../../Downloads/PersonaMascota/Persona/Persona.h" />
+		<Unit filename="../../../../../../../Downloads/PersonaMascota/Persona/Persona.layout" />
+		<Unit filename="../../../../../../../Downloads/PersonaMascota/Persona/Pokemon.h" />
+		<Unit filename="../../../../../../../Downloads/PersonaMascota/Persona/main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

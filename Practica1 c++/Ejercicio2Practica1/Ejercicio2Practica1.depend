@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1559777350 source:c:\users\juanc\documents\facultad\unq\licenciatura en informatica\estructuras de datos\practica1 c++\ejercicio2practica1\fraccion.cpp
+	"fraccion.h"
+
+1559777370 c:\users\juanc\documents\facultad\unq\licenciatura en informatica\estructuras de datos\practica1 c++\ejercicio2practica1\fraccion.h
+
+1559777401 source:c:\users\juanc\documents\facultad\unq\licenciatura en informatica\estructuras de datos\practica1 c++\ejercicio2practica1\main.cpp
+	<iostream>
+	"fraccion.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1560380043 source:c:\users\juanc\documents\facultad\unq\licenciatura en informatica\estructuras de datos\practica1 c++\set\main.cpp
+	<iostream>
+	"Set.h"
+
+1560379986 c:\users\juanc\documents\facultad\unq\licenciatura en informatica\estructuras de datos\practica1 c++\set\set.h
+	<iostream>
+
+1560380250 source:c:\users\juanc\documents\facultad\unq\licenciatura en informatica\estructuras de datos\practica1 c++\set\set.cpp
+	"Set.h"
+
